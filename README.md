@@ -1,3 +1,5 @@
 # mini-project
 
-topic projrct spotify clone
+Spotify clone
+
+
