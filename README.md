@@ -6,4 +6,4 @@ Spotify clone
 
 
 History
-
+   Spotify was founded in 2006 in Stockholm, Sweden, by Daniel Ek, former CTO of Stardoll, and Martin Lorentzon, co-founder of Tradedoubler. According to Ek, the company's title was initially misheard from a name shouted by Lorentzon. Later they thought out a portmanteau of "spot" and "identify"
